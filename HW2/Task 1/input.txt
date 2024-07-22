@@ -1,0 +1,7 @@
+Gosha, 60
+Dasha, 70
+Rita, 80
+Egor, 99
+Kevin, 30
+Michel, 100
+Karl, 100

@@ -1,0 +1,4 @@
+Rita, 80
+Egor, 99
+Michel, 100
+Karl, 100
